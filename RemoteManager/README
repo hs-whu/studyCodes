@@ -1,3 +1,0 @@
-远程管理系统
-只实现了文件管理
-装好tomcat后，把artifact拿去更换webapps下的ROOT就可以运行
